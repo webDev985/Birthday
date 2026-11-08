@@ -1,0 +1,3 @@
+Add your photos here later (example names: photo1.jpg, photo2.jpg, photo3.jpg).
+Then update the photo fields in index.html inside window.LOVE_SITE_CONFIG.
+Or send the photos in chat and I can do it for you.
